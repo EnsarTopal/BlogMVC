@@ -1,0 +1,15 @@
+C:\Users\ismailtopal\Desktop\BlogMVC\Entity\bin\Debug\Entity.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\Entity\bin\Debug\Entity.pdb
+C:\Users\ismailtopal\Desktop\BlogMVC\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\ismailtopal\Desktop\BlogMVC\Entity\obj\Debug\Entity.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\Entity\obj\Debug\Entity.pdb
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\Entity\bin\Debug\Entity.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\Entity\bin\Debug\Entity.pdb
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\Entity\obj\Debug\Entity.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\Entity\obj\Debug\Entity.pdb
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\Entity\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\Entity\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\Entity\obj\Debug\Entity.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\Entity\obj\Debug\Entity.pdb
