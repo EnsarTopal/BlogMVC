@@ -1,0 +1,344 @@
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\ApplicationInsights.config
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\roslyn\csc.exe
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\roslyn\vbc.exe
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\BlogMVC.dll.config
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\BlogMVC.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\BlogMVC.pdb
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Antlr3.Runtime.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Entity.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\EntityFramework.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.AI.Web.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.Owin.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Newtonsoft.Json.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Owin.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\System.Web.Helpers.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\System.Web.Mvc.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\System.Web.Optimization.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\System.Web.Razor.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\System.Web.WebPages.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\WebGrease.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Entity.pdb
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.AI.Web.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\System.Web.Helpers.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\System.Web.Mvc.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\System.Web.Optimization.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\System.Web.Razor.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\System.Web.WebPages.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Antlr3.Runtime.pdb
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Newtonsoft.Json.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\EntityFramework.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.Owin.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\obj\Debug\BlogMVC.csprojResolveAssemblyReference.cache
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\obj\Debug\BlogMVC.dll
+C:\Users\ismailtopal\Desktop\BlogMVC\BlogMVC\obj\Debug\BlogMVC.pdb
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\ApplicationInsights.config
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\roslyn\csc.exe
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\roslyn\vbc.exe
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\BlogMVC.dll.config
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\BlogMVC.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\BlogMVC.pdb
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Antlr3.Runtime.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Entity.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\EntityFramework.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.Web.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Newtonsoft.Json.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Owin.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\System.Web.Helpers.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\System.Web.Mvc.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\System.Web.Optimization.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\System.Web.Razor.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\System.Web.WebPages.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\WebGrease.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Entity.pdb
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.Web.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\System.Web.Helpers.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\System.Web.Mvc.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\System.Web.Optimization.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\System.Web.Razor.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\System.Web.WebPages.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Antlr3.Runtime.pdb
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Newtonsoft.Json.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\EntityFramework.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\obj\Debug\BlogMVC.csprojResolveAssemblyReference.cache
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\obj\Debug\BlogMVC.dll
+C:\Users\ismailtopal\Desktop\BlogMVC - Kopya\BlogMVC\obj\Debug\BlogMVC.pdb
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\obj\Debug\BlogMVC.csprojResolveAssemblyReference.cache
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\obj\Debug\BlogMVC.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\obj\Debug\BlogMVC.pdb
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\ApplicationInsights.config
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\roslyn\csc.exe
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\roslyn\vbc.exe
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\BlogMVC.dll.config
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\BlogMVC.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\BlogMVC.pdb
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Antlr3.Runtime.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Entity.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\EntityFramework.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.Web.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Newtonsoft.Json.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Owin.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\System.Web.Helpers.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\System.Web.Mvc.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\System.Web.Optimization.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\System.Web.Razor.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\System.Web.WebPages.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\WebGrease.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Entity.pdb
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.Web.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\System.Web.Helpers.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\System.Web.Mvc.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\System.Web.Optimization.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\System.Web.Razor.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\System.Web.WebPages.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Antlr3.Runtime.pdb
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Newtonsoft.Json.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\EntityFramework.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\PagedList.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\PagedList.Mvc.dll
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\PagedList.xml
+C:\Users\ismailtopal\Desktop\ensar topal\MVC\BlogMVC - Kopya\BlogMVC\bin\PagedList.Mvc.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\ApplicationInsights.config
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\roslyn\csc.exe
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\roslyn\vbc.exe
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\roslyn\VBCSCompiler.exe
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\BlogMVC.dll.config
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\BlogMVC.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\BlogMVC.pdb
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Antlr3.Runtime.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Entity.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\EntityFramework.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\EntityFramework.SqlServer.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.Web.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.ApplicationInsights.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Owin.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\PagedList.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\PagedList.Mvc.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\System.Web.Helpers.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\System.Web.Mvc.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\System.Web.Optimization.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\System.Web.Razor.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\System.Web.WebPages.Deployment.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\System.Web.WebPages.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\System.Web.WebPages.Razor.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\WebGrease.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Entity.pdb
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.Web.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.ApplicationInsights.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\PagedList.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\PagedList.Mvc.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\System.Web.Helpers.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\System.Web.Mvc.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\System.Web.Optimization.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\System.Web.Razor.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\System.Web.WebPages.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\System.Web.WebPages.Deployment.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\System.Web.WebPages.Razor.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Antlr3.Runtime.pdb
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\EntityFramework.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\EntityFramework.SqlServer.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\obj\Debug\BlogMVC.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\obj\Debug\BlogMVC.dll
+C:\inetpub\wwwroot\ensartopal\BlogMVC - Kopya\BlogMVC\obj\Debug\BlogMVC.pdb

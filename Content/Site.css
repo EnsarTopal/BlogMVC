@@ -1,0 +1,67 @@
+﻿body {
+   
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+
+    a:hover,
+    a:focus {
+        color: #a51717;
+        text-decoration: underline;
+    }
+
+    a:focus {
+        outline: thin dotted #333;
+        outline: 5px auto -webkit-focus-ring-color;
+        outline-offset: -2px;
+    }
+
+    
+.panel{
+
+    margin-top:50px;
+}
+
+
+
+
+.btn-success{
+    background: #99CCBB;
+    border-radius: 5px;
+    box-shadow: 0px 0px 0px 5px rgba(255,255,255,0.1);
+    border: 1px solid #8EBEAE;  
+    margin: 0em 0.3em;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Archivo Narrow', sans-serif;
+}
+
+
+
+
+.yorum_liste{padding:10px;border:1px solid #E6E4DF;box-shadow:1px 1px 6px #CCCCC6;margin-bottom:10px;}
+.yorum_liste>h4{font-size:15px;font-weight:bold}
+.yorum_liste>span{display:block;margin-top:-10px;font-size:14px;color:#B4B1AB}
+.yorum_liste>p{font-size:14px;color:#8C8C88}
+.yorum_liste{border-left:4px solid #36E2EA}

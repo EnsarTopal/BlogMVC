@@ -1,0 +1,42 @@
+﻿.left {
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+#title {
+    width: 180px;
+}
+
+#description {
+    width: 55%;
+}
+
+#items {
+    width: 150px;
+}
+
+.ontable {
+    text-align: center;
+}
+
+#blog-list {
+    width: 700px;
+}
+
+.img {
+    height: 300px;
+    width: 800px;
+}
+
+.image:hover{opacity:0.7;}
+.image{opacity:1;}
+.detay_img{
+    margin-top:25px;
+    width:450px;
+    height:400px;
+}
+
+#butonlar{
+
+    text-align:right;
+}
