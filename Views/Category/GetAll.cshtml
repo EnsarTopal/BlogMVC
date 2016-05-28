@@ -1,0 +1,66 @@
+﻿@model IEnumerable<Entity.Category>
+
+@{
+    int id = 0;
+
+    if (ViewContext.RouteData.Values["id"] != null)
+    {
+        id = int.Parse(ViewContext.RouteData.Values["id"].ToString());
+    }
+}
+
+<br />
+<br />
+<ul class="nav nav-pills nav-stacked">
+
+    @if (id == 0)
+    {
+        <li class="active">
+            <a href="/Blog/Index">
+                Hepsi
+            </a>
+        </li>
+    }
+    else
+    {
+        <li>
+            <a href="/Blog/Index">
+                Hepsi
+            </a>
+        </li>
+    }
+
+
+    @foreach (var item in Model)
+    {
+
+        if (id == item.Id)
+        {
+            <li class="active">
+                <a href="/Blog/Index/@item.Id">
+                    @item.Name
+                </a>
+            </li>
+        }
+        else
+        {
+
+            <li>
+                <a href="/Blog/Index/@item.Id">
+                    @item.Name
+                </a>
+            </li>
+        }
+
+    }
+
+</ul>
+<br />
+<br />
+<br />
+
+<div id="dvswidget" style="width: 200px; height:300px;"><div id="dvsgundem" style="border:2px solid #ebebeb"><div id="dvsgheading" style="padding:11px 0 8px 9px;background-color: white;"><a id="asgheading" href="http://www.milliyet.com.tr/?utm_source=siteneekle&utm_medium=widget&utm_campaign=http%253A%252F%252Fwww.milliyet.com.tr" target="_blank"><img id="imgsgheading" src="http://www.milliyet.com.tr/siteneekle/i/milliyet_logo144x21.png" width="144" height="21" style="border: none;" /></a></div><a target="_blank" id="aIsShowCategoryHeader" href="http://www.milliyet.com.tr/gundem/?utm_source=siteneekle&utm_medium=widget&utm_campaign=http%253A%252F%252Fwww.milliyet.com.tr" style="background-color:#f4f4f4; border-top:1px solid #e4e4e4; border-bottom:1px solid #e4e4e4; display:block; padding:4px 4px; color:#333; font-size:13px; font-weight:bold;font-family:Arial, Helvetica, sans-serif;">Gündem Haberleri</a><div id="cdSiteneEkle" style="background-color: white;border: none;"></div><div id="dvlnkBase" style="color:#bfbfbf; text-align:center; padding:0px; border-top:1px solid #ebebeb;background-color: white;font-family: Arial, Helvetica, sans-serif;"><a id="a1lnkBase" href="http://www.milliyet.com.tr/?utm_source=siteneekle&utm_medium=widget&utm_campaign=http%253A%252F%252Fwww.milliyet.com.tr" style="color:#bfbfbf; font-size:13px" target="_blank">Haberler</a>&nbsp;&nbsp;&nbsp;&nbsp;<a id="a2lnkBase" href="http://www.milliyet.com.tr/sondakika/?utm_source=siteneekle&utm_medium=widget&utm_campaign=http%253A%252F%252Fwww.milliyet.com.tr" style="color:#bfbfbf; font-size:13px" target="_blank">Son Dakika Haberleri</a></div></div></div>
+<script id="scrMilSiteneEkle" type="text/javascript" src="http://www.milliyet.com.tr/siteneekle/j/ekleMain.js?v=26&CategoryID=15&PageIndex=5&tasarimID=0&_width=200&_height=300&IsShowCategoryHeader=1&IsShowImages=1&mainDomain=http%253A%252F%252Fwww.milliyet.com.tr"></script>
+
+<br />
+@Html.Partial("_Search")

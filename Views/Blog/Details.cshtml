@@ -1,0 +1,87 @@
+﻿@model Entity.Blog
+@{
+    ViewBag.Title = "Details";
+}
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script type="text/javascript">
+    $(function () {
+        $('input.urun_id_tut').attr("value",@Model.Id);
+    });
+</script>
+<div style="margin-top:-50px">
+
+    <br />
+    <br />
+    <br />
+    <br />
+
+    <h2 style="text-align:center">@Model.Title</h2>
+    <p style="text-align:center"><span class="glyphicon glyphicon-time"></span> Posted on @Model.PublishDate</p>
+
+    <div class="col-md-5">
+
+        <img class="detay_img" src="~/Image/@Model.Image" alt=""
+             onError="this.src='http://placehold.it/900x300';" />
+        <hr>
+
+    </div>
+
+    <div class="col-md-7">
+
+        <p style="margin-top:25px">@Model.Detail</p>
+        <hr>
+        <p> <b><i></i>@Model.author.Name @Model.author.Surname </b> Adlı Yazar Tarafından Yazılmıştır</p>
+    </div>
+
+
+</div>
+<hr />
+
+
+
+
+
+<div class="menu3">
+    <!-- Default panel contents -->
+    <div class="btn " data-toggle="collapse" data-target="#menu3" style="width:480px;line-height:1;font-size:32px;background-color: rgba(153, 204, 187, 0.83);margin-left:370px;margin-top:25px;">
+        <span style="color: rgb(198, 0, 241);" class="yorum_btn">YORUM YAZMAK İSTİYORUM</span>
+        <i style="float:right;margin-top:8px;" class="fa fa-long-arrow-right"></i>
+    </div>
+    <div style="height:10px">
+
+    </div>
+    <ul class="collapse" id="menu3" style="height: 0px;">
+        <div">
+            @Html.Action("Comment_list", "Comment", new { id = ViewContext.RouteData.Values["Id"] })
+            @Html.Action("add_comment", "Comment")
+
+
+    </ul>
+    <a name="yorum"></a>
+
+    <div id="fb-root"></div>
+    <script>
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/tr_TR/sdk.js#xfbml=1&version=v2.6";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    <div class="fb-comments" data-href="http://ensartopalblog.com/Blog/Details/@Model.Id" data-numposts="5"></div>
+
+    <div id="fb-root"></div>
+    <script>
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/tr_TR/sdk.js#xfbml=1&version=v2.6";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+
+    <div class="fb-share-button" data-href="http://ensartopalblog.com/Blog/Details/@Model.Id" data-layout="button" data-mobile-iframe="true"></div>
+
+
+</div>

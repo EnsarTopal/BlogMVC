@@ -1,0 +1,17 @@
+﻿@model IEnumerable<Entity.Comment>
+
+@if (ViewBag.toplamYorum == 0)
+{
+    <span style="color:#ff0000">Henüz hiç yorum eklenmemiş</span>
+}
+else
+{
+    foreach (var item in Model)
+    {
+        <div class="col-md-11 yorum_liste">
+            <p style="color: hsla(222, 73%, 49%, 0.78);  font-size:1.7em;margin-bottom:-3px;">@item.Nickname</p>
+            <p style="color:rgb(183, 0, 241); font-size:1.3em">@item.yorum</p>
+        </div>
+    }
+}
+<br />

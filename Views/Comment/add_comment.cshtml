@@ -1,0 +1,34 @@
+﻿@model Entity.Comment
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+}
+
+@using (Html.BeginForm())
+{
+    <div class="col-md-10">
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.Nickname, new { @class = "control-label col-md-2" })
+            <div class="col-md-10" style="margin:0 0 12px 0;">
+                @Html.EditorFor(model => model.Nickname, new { htmlAttributes = new { @class = "form-control", @placeholder = "Kullanıcı adı" } })
+                @Html.ValidationMessageFor(model => model.Nickname, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.yorum, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.yorum, new { @class = "form-control", @placeholder = "Yorum içeriği" })
+                @Html.ValidationMessageFor(model => model.yorum, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        @Html.HiddenFor(model => model.Blog_Id, new { @class = "urun_id_tut" })
+        <button type="submit" class="btn btn-default" style="margin:12px 0 0 325px">
+            Yorum Yap
+        </button>
+    </div>
+}
+@Html.Raw(ViewBag.basarili)

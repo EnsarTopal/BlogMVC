@@ -1,0 +1,31 @@
+﻿
+@model IEnumerable<Entity.Author>
+
+@{
+    int id = 0;
+
+    if (ViewContext.RouteData.Values["id"] != null)
+    {
+        id = int.Parse(ViewContext.RouteData.Values["id"].ToString());
+    }
+}
+
+<br />
+<br />
+
+<div class="button-style" style="width:185px;">
+    <a id="drop5" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+        Authors
+        <span class="caret">
+
+        </span>
+    </a>
+    <ul id="menu2" class="dropdown-menu" aria-labelledby="drop5" style="margin-left:25px">
+        @foreach (var item in Model)
+        {
+            <li>
+                <a href="/Blog/Index/@item.Id" style="color:hotpink!important">@item.Name @item.Surname</a>
+            </li>
+        }
+    </ul>
+</div>

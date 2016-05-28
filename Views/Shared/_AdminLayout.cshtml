@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Ensar Topal Blog</title>
+    @Styles.Render("~/Content/css")
+
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <div id="wrapper-bg">
+        <div id="wrapper">
+
+            <div id="header" class="container">
+
+                <div id="menu">
+                    @Html.Partial("_AdminLoginPartial")
+                    <ul>                       
+                        <li>@Html.ActionLink("Crete Category", "Create", "Category", null, new { accesskey = "3" })</li>
+
+                        <li>@Html.ActionLink("Crete Blog", "Create", "Blog", null, new { accesskey = "3" })</li>
+                      <li>@Html.ActionLink("Go to Home","Index","Blog")</li>
+                    </ul>
+                  
+                </div>
+            </div>
+
+            <div class="row">
+
+
+                <div class="col-md-3">
+                    @Html.Partial("_AdminMenu")
+                </div>
+
+                <div class="col-md-9">
+                    @RenderBody()
+                </div>
+
+
+
+            </div>
+
+
+
+        </div>
+        <div style="float:right">
+            <script>var _q = "olp1263";</script>
+            <script language="Javascript" src="http://oa.onlinekisi.com/i/ok5.js"></script>
+        </div>
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Ensar Topal's Blog</p>
+        </footer>
+
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,71 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<div id="banner" style="margin-top:-83px" class="container"> <img src="~/Image/header-photo.jpg" width="1240" height="400" alt="" /> </div>
+
+@foreach (var item in Model)
+{
+    
+    <div class="col-sm-6 col-md-4" style="margin-top:8px">
+        <div class="thumbnail">
+
+            <a href="~/Blog/Details/@item.Id" class="image image-full">
+                <img src="~/Image/@item.Image" alt=""
+                     onError="this.src='http://placehold.it/800x300';" />
+            </a>
+
+            <div class="caption">
+                @if (item.Title.Length >= 22)
+                {
+                    item.Title = item.Title.Substring(0, 15) + "...";
+                    <h3>@item.Title</h3>
+                }
+
+                else
+                {
+                    <h3>@item.Title</h3>
+                }
+
+
+                @if (item.Description.Length >= 100)
+                {
+                    item.Description = item.Description.Substring(0, 90) + "...";
+                    <p>@item.Description</p>
+                }
+                else
+                {
+                    <p>@item.Description</p>
+                }
+               
+                <p>
+                    <div class="learn-more">
+                        <a href="/Blog/Details/@item.Id" class="button-style">Learn More</a>
+                    </div>
+                    <div style="text-align:right">@item.PublishDate</div>
+                    <div style="float:left">@item.author.Name @item.author.Surname</div>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    
+
+}
+
+
+
+
+
+@section Category{
+
+    @{Html.RenderAction("GetAll", "Category");}
+
+}
+
+
+@section Author{
+
+    @{Html.RenderAction("All", "Author");}
+
+}

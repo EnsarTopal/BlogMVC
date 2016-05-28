@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>@ViewBag.Title -Ensar Topal Blog</title>
+    @Styles.Render("~/Content/css")
+
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body style="background-color: #ffffff;">
+    <div id="wrapper-bg">
+        <div id="wrapper">
+            <div id="header" class="container">
+                <div id="logo">
+                    <h2><a href="#"><span>EnsarTopal</span>Blog</a></h2>
+                </div>
+                <div id="menu">
+                    @Html.Partial("_LoginPartial") 
+                               
+                    <ul>
+
+                        <li class="active">@Html.ActionLink("HomePage", "Index", "Blog")</li>
+
+                        <li>@Html.ActionLink("Admin", "List", "Blog")</li>
+                    </ul>
+
+                    <br />
+                    @Html.Partial("_Search")
+                    <br />
+                </div>
+
+
+
+
+               
+            </div>
+
+
+        </div>
+    </div>
+
+    @RenderBody()
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

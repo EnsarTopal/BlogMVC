@@ -1,0 +1,27 @@
+﻿@model BlogMVC.Models.StatisticModel
+        
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h3 style="margin-left:-320px">Hello @User.Identity.Name.ToString() </h3>
+
+
+@if (Model.BlogCount>0 )
+{
+    <div class="dropdown">
+        <button class="btn btn-default dropdown-toggle btn-lg" style="width:850px;background-color:violet" type="button" id="dropdownmenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" >
+            @Model.BlogCount Adet blog yayınlanmak için onayınızı bekliyor.. <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" style="width:850px; text-align:center; color:blueviolet" aria-labelledby="drowpdownmenu1">
+            @foreach (var item in Model.Blogi)
+            {
+                <li><a href="Blog/Edit/@item.Id">@item.Title</a></li>
+            }
+        </ul>
+    </div>
+}
+
+
+

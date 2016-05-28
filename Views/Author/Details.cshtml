@@ -1,0 +1,33 @@
+﻿@model Entity.Author
+
+@{
+    ViewBag.Title = "AuthorDetails";
+}
+
+
+<div>
+    <h4>@Model.Name @Model.Surname </h4>
+    <hr />
+    <dl class="thumbnail">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Surname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Surname)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index","Blog")
+</p>

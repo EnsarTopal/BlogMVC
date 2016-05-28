@@ -1,0 +1,64 @@
+﻿
+@using PagedList.Mvc
+@model PagedList.IPagedList<Entity.Blog>
+
+<link href="~/Content/PagedList.css" rel="stylesheet" />
+
+@{
+    ViewBag.Title = "List";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+<table class="table" style="margin-top:50px;">
+    <tr class="ontable" style="text-align:center;">
+
+
+
+        <th>
+            Title
+        </th>
+        <th>
+            Description
+        </th>
+        <th>
+            isPopular
+        </th>
+        <th>
+            isPublish
+        </th>
+        <th></th>
+
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr class="ontable">
+            <td id="title">
+
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td id="description">
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.isPopular)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.isPublish)
+            </td>
+            <td id="items">
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-default btn-sm" })
+
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { @class = "btn btn-default btn-sm" })
+            </td>
+        </tr>
+    }
+
+</table>
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("List",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
